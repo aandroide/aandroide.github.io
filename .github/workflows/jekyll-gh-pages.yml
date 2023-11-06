@@ -4,7 +4,7 @@ name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main", "feature/zipfiles"]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -28,6 +28,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Zip Files
+        uses: vimtor/action-zip@v1.1
+        with:
+          files: plugin.video.lo-scienziato-pazzo
+          dest: repo/installer.zip
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
