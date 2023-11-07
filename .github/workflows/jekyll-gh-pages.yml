@@ -28,12 +28,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Zip Files
-        uses: vimtor/action-zip@v1.1
-        with:
-          files: plugin.video.lo-scienziato-pazzo/
-          dest: repo/plugin.video.lo-scienziato-pazzo.zip
-          recursive: false
+      #- name: Zip Files
+      #  uses: vimtor/action-zip@v1.1
+      #  with:
+      #    files: plugin.video.lo-scienziato-pazzo/
+      #    dest: repo/test_plugin.video.lo-scienziato-pazzo.zip
+      #    recursive: false
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
