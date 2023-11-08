@@ -12,7 +12,7 @@
   <extension point="xbmc.python.script" library="helloworld.py">
         <provides>executable</provides>
   </extension>
-  <extension point="xbmc.python.script" library="helloworld.py">
+  <extension point="xbmc.python.script" library="service.py">
         <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
