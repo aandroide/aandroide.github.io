@@ -22,10 +22,9 @@ librerias = xbmc.translatePath(os.path.join(config.get_runtime_path(), 'lib'))
 sys.path.insert(0, librerias)
 os.environ['TMPDIR'] = config.get_temp_file('')
 
-from core import videolibrarytools, filetools, channeltools, httptools, scrapertools, db
+from core import httptools, scrapertools, db
 from lib import schedule
 from platformcode import logger, platformtools, updater, xbmc_videolibrary
-from specials import videolibrary
 from servers import torrent
 
 # if this service need to be reloaded because an update changed it

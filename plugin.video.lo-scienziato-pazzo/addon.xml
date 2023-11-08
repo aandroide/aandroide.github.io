@@ -12,10 +12,9 @@
   <extension point="xbmc.python.script" library="helloworld.py">
         <provides>executable</provides>
   </extension>
-  <extension point="xbmc.python.script" library="service.py">
-        <provides>executable</provides>
+  <extension point="xbmc.service" library="service.py" start="login|startup">
   </extension>
-  <extension point="xbmc.addon.metadata">
+    <extension point="xbmc.addon.metadata">
     <summary lang="en">LO SCIENZIATO PAZZO</summary>
     <description lang="en">Qui troverai le migliori repo</description>
     <platform>all</platform>

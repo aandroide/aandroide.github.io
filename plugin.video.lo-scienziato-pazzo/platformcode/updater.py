@@ -24,7 +24,7 @@ _hdr_pat = re.compile("^@@ -(\d+),?(\d+)? \+(\d+),?(\d+)? @@.*")
 
 branch = 'master'
 user = 'Lucioric2000'
-repo = 'lucioric2000_kod.github.io'
+repo = 'aandroide.github.io'
 addonDir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 maxPage = 5  # le api restituiscono 30 commit per volta, quindi se si è rimasti troppo indietro c'è bisogno di andare avanti con le pagine
 trackingFile = "last_commit.txt"
@@ -52,7 +52,7 @@ def loadCommits(page=1):
 def check(background=False):
     if not config.get_setting('addon_update_enabled'):
         return False, False
-    logger.info('Cerco aggiornamenti..')
+    logger.info('Cerco aggiornamenti2..')
     commits = loadCommits()
     if not commits:
         return False, False
