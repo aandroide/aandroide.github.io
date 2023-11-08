@@ -22,7 +22,7 @@ addonname = addon.getAddonInfo('name')
 
 _hdr_pat = re.compile("^@@ -(\d+),?(\d+)? \+(\d+),?(\d+)? @@.*")
 
-branch = 'master'
+branch = 'feature/zipfiles'
 user = 'aandroide'
 repo = 'aandroide.github.io'
 addonDir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -52,7 +52,7 @@ def loadCommits(page=1):
 def check(background=False):
     if not config.get_setting('addon_update_enabled'):
         return False, False
-    logger.info('Cerco aggiornamenti..')
+    logger.info('Cerco aggiornamenti2..')
     commits = loadCommits()
     if not commits:
         return False, False
