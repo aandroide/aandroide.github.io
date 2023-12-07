@@ -1,0 +1,108 @@
+<settings version="2">
+    <setting id="autostart" default="true">false</setting>
+    <setting id="addon_update_enabled">true</setting>
+    <setting id="addon_update_message">true</setting>
+    <setting id="addon_update_timer">1</setting>
+    <setting id="resolver_dns">true</setting>
+    <setting id="checkdns">true</setting>
+    <setting id="debug" default="true">false</setting>
+    <setting id="chrome_ua_version" default="true">87.0.4280.88</setting>
+    <setting id="player_mode">1</setting>
+    <setting id="default_action" default="true">0</setting>
+    <setting id="autoplay" default="true">false</setting>
+    <setting id="servers_favorites" default="true" />
+    <setting id="servers_blacklist" default="true" />
+    <setting id="window_type" default="true">0</setting>
+    <setting id="resume_menu" default="true">0</setting>
+    <setting id="checklinks" default="true">false</setting>
+    <setting id="checklinks_number">5</setting>
+    <setting id="videolibrarypath" default="true">special://profile/addon_data/plugin.video.kod/videolibrary/</setting>
+    <setting id="folder_tvshows" default="true">Serie TV</setting>
+    <setting id="folder_movies" default="true">Film</setting>
+    <setting id="videolibrary_kodi" default="true">false</setting>
+    <setting id="videolibrary_max_quality" default="true">false</setting>
+    <setting id="next_ep">1</setting>
+    <setting id="next_ep_type" default="true">0</setting>
+    <setting id="next_ep_seconds">40</setting>
+    <setting id="watched_setting">80</setting>
+    <setting id="trakt_sync" default="true">false</setting>
+    <setting id="vidolibrary_preferences" default="true" />
+    <setting id="vidolibrary_update" default="true" />
+    <setting id="vidolibrary_export" default="true" />
+    <setting id="vidolibrary_import" default="true" />
+    <setting id="vidolibrary_delete" default="true" />
+    <setting id="vidolibrary_restore" default="true" />
+    <setting id="channel_language" default="true">all</setting>
+    <setting id="channels_onoff" default="true" />
+    <setting id="channels_config" default="true" />
+    <setting id="channels_check" default="true" />
+    <setting id="resolve_priority" default="true">0</setting>
+    <setting id="resolve_stop">true</setting>
+    <setting id="hidepremium" default="true">false</setting>
+    <setting id="httptools_timeout">5</setting>
+    <setting id="favorites_servers" default="true">false</setting>
+    <setting id="quality_priority" default="true">false</setting>
+    <setting id="servers_config" default="true" />
+    <setting id="debriders_config" default="true" />
+    <setting id="elementum_on_seed" default="true">false</setting>
+    <setting id="elementum_install" default="true" />
+    <setting id="new_search">true</setting>
+    <setting id="last_search">true</setting>
+    <setting id="saved_searches_limit">10</setting>
+    <setting id="result_mode" default="true">0</setting>
+    <setting id="thread_number" default="true">0</setting>
+    <setting id="search_channels" default="true" />
+    <setting id="tmdb_active" default="true">true</setting>
+    <setting id="tmdb_plus_info" default="true">false</setting>
+    <setting id="episode_info" default="true">false</setting>
+    <setting id="tmdb_cache">true</setting>
+    <setting id="tmdb_cache_expire">4</setting>
+    <setting id="tmdb_clean_db_cache" default="true" />
+    <setting id="lista_activa" default="true">kodfavorites-default.json</setting>
+    <setting id="downloadenabled" default="true">false</setting>
+    <setting id="downloadpath" default="true">special://profile/addon_data/plugin.video.kod/downloads/</setting>
+    <setting id="downloadlistpath" default="true">special://profile/addon_data/plugin.video.kod/downloads/list/</setting>
+    <setting id="library_move">true</setting>
+    <setting id="browser">true</setting>
+    <setting id="server_speed">true</setting>
+    <setting id="language" default="true">ITA</setting>
+    <setting id="quality" default="true">0</setting>
+    <setting id="download_adv" default="true" />
+    <setting id="news_films" default="true" />
+    <setting id="news_series" default="true" />
+    <setting id="news_anime" default="true" />
+    <setting id="news_documentaries" default="true" />
+    <setting id="news_options" default="true" />
+    <setting id="enable_news_menu">true</setting>
+    <setting id="enable_channels_menu">true</setting>
+    <setting id="enable_search_menu">true</setting>
+    <setting id="enable_onair_menu">true</setting>
+    <setting id="enable_link_menu">true</setting>
+    <setting id="enable_fav_menu">true</setting>
+    <setting id="enable_library_menu">true</setting>
+    <setting id="touch_view" default="true">false</setting>
+    <setting id="viewchange_notify" default="true">false</setting>
+    <setting id="skin_name" default="true">skin.estuary</setting>
+    <setting id="view_mode_home" default="true">Default, 0</setting>
+    <setting id="view_mode_menu" default="true">Default, 0</setting>
+    <setting id="view_mode_channels" default="true">Default, 0</setting>
+    <setting id="view_mode_channel">Lista ampia, 55</setting>
+    <setting id="view_mode_movie" default="true">Default, 0</setting>
+    <setting id="view_mode_tvshow" default="true">Default, 0</setting>
+    <setting id="view_mode_season" default="true">Default, 0</setting>
+    <setting id="view_mode_episode" default="true">Default, 0</setting>
+    <setting id="view_mode_server" default="true">Default, 0</setting>
+    <setting id="view_mode_musicvideo" default="true">Default, 0</setting>
+    <setting id="quick_menu">true</setting>
+    <setting id="infoplus" default="true">false</setting>
+    <setting id="shortcut_key" default="true" />
+    <setting id="delete_key" default="true" />
+    <setting id="icon_set" default="true">default</setting>
+    <setting id="only_channel_icons" default="true">false</setting>
+    <setting id="enable_custom_theme" default="true">false</setting>
+    <setting id="custom_theme" default="true" />
+    <setting id="video_thumbnail_type">1</setting>
+    <setting id="install_trakt" default="true">true</setting>
+    <setting id="settings_path" default="true">special://profile/addon_data/plugin.video.kod/settings_channels</setting>
+    <setting id="show_once" default="true">true</setting>
+</settings>

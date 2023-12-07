@@ -1,0 +1,25 @@
+<settings version="2">
+    <setting id="mpd">true</setting>
+    <setting id="hide_default_list" default="true">false</setting>
+    <setting id="enable_epg">true</setting>
+    <setting id="resolutions" default="true">0</setting>
+    <setting id="inputhelper" default="true" />
+    <setting id="forceStopForSwitch" default="true">false</setting>
+    <setting id="showVODPosters" default="true">false</setting>
+    <setting id="selected">_dtt_kodi</setting>
+    <setting id="lastcheck" default="true" />
+    <setting id="rai3region" default="true" />
+    <setting id="rai3config" default="true">0.0.300</setting>
+    <setting id="rai3chosen" default="true" />
+    <setting id="raidelay">23</setting>
+    <setting id="isBeta" default="true">false</setting>
+    <setting id="emulateServerOffLine" default="true">false</setting>
+    <setting id="force_hotfix" default="true" />
+    <setting id="cache_cleanup" default="true" />
+    <setting id="localFileExpiringDays">5</setting>
+    <setting id="debug">true</setting>
+    <setting id="forceDirectLink" default="true">false</setting>
+    <setting id="forceDirectLinkExp">20210101</setting>
+    <setting id="internalListNavigation" default="true">false</setting>
+    <setting id="last_selected_online_list" default="true">_dtt_kodi</setting>
+</settings>

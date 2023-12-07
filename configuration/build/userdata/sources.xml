@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<sources>
+	<programs>
+		<default pathversion="1"/>
+	</programs>
+	<video>
+		<default pathversion="1"/>
+		<source>
+			<name>videolibrary</name>
+			<path pathversion="1">special://profile/addon_data/plugin.video.kod/videolibrary/</path>
+			<allowsharing>true</allowsharing>
+		</source>
+		<source>
+			<name>downloads</name>
+			<path pathversion="1">special://home/userdata\addon_data\plugin.video.kod\downloads\</path>
+			<allowsharing>true</allowsharing>
+		</source>
+	</video>
+	<music>
+		<default pathversion="1"/>
+	</music>
+	<pictures>
+		<default pathversion="1"/>
+	</pictures>
+	<files>
+		<default pathversion="1"/>
+		<source>
+			<name>kod on demand</name>
+			<path pathversion="1">http://kodiondemand.github.io/repo</path>
+			<allowsharing>true</allowsharing>
+		</source>
+		<source>
+			<name>repository.openwizard</name>
+			<path pathversion="1">https://a4k-openproject.github.io/repository.openwizard/</path>
+			<allowsharing>true</allowsharing>
+		</source>
+		<source>
+			<name>The Groove360</name>
+			<path pathversion="1">https://thegroove360.tk/addons/</path>
+			<allowsharing>true</allowsharing>
+		</source>
+	</files>
+	<games>
+		<default pathversion="1"/>
+	</games>
+</sources>

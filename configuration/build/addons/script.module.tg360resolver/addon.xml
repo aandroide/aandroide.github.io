@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.tg360resolver" name="Thegroove360 Resolver" version="0.9.4" provider-name="Thegroove360">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="default.py" />
+
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Thegroove360 Resolver</summary>
+		<description lang="en_GB">Thegroove360 Resolver</description>
+		<language></language>
+		<platform>all</platform>
+	</extension>
+</addon>

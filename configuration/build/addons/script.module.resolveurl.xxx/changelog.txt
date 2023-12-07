@@ -1,0 +1,10 @@
+Version 2.1.39 (Jul 21, 2023)
+
+- Resolvers Added:
+    - None
+ 
+- Resolvers Fixed/Updated:
+    - pornhub
+
+- Resolvers Removed
+    - None

@@ -1,0 +1,431 @@
+# Kodi Media Center language file
+# Addon Name: WLTV Helper
+# Addon id: plugin.video.wltvhelper
+#
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-11 19:53+0200\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Settings
+msgctxt "#30000"
+msgid "WLTV Helper"
+msgstr "r"
+
+msgctxt "#30001"
+msgid "plugin.video.wltvhelper"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Select List"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Prefer MPEG-DASH streams"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Select your preferred resolution"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Open InputStream Helper settings"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Enable debug log"
+msgstr ""
+
+msgctxt "#30008"
+msgid "General"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Hide default lists"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Manage Lists"
+msgstr ""
+
+msgctxt "#30011"
+msgid "List Name"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Enable EPG"
+msgstr ""
+
+msgctxt "#30100"
+msgid "Automatic installation of Inputstram Adaptive failed."
+msgstr ""
+
+msgctxt "#30101"
+msgid "Try installing it manually"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Widevine CDM"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Some content needs Widevine CDM to be viewed.\nDo you want to install it?"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Widevine CDM update available.\nDo you want to install it?"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Downloading..."
+msgstr "Download in corso..."
+
+msgctxt "#30106"
+msgid "Widevine CDM extraction"
+msgstr ""
+
+msgctxt "#30107"
+msgid "Preparing the downloaded image ..."
+msgstr ""
+
+msgctxt "#30108"
+msgid "This function requires PVR IPTV Simple Client."
+msgstr ""
+
+msgctxt "#30109"
+msgid "List unavailable or not valid."
+msgstr ""
+
+msgctxt "#30110"
+msgid "Sorry, an error occured. Contact KLTV Support on Telegram at https://t.me/WorldLiveTV"
+msgstr ""
+
+msgctxt "#30111"
+msgid "{} Addon is not active.\nDo you want to activate it?"
+msgstr ""
+
+msgctxt "#30112"
+msgid "Identifying wanted partition..."
+msgstr ""
+
+msgctxt "#30113"
+msgid "Scanning the filesystem for the Widevine CDM..."
+msgstr ""
+
+msgctxt "#30114"
+msgid "Widevine CDM found, analyzing..."
+msgstr ""
+
+msgctxt "#30115"
+msgid "Extracting Widevine CDM from image..."
+msgstr ""
+
+msgctxt "#30116"
+msgid "Force direct links"
+msgstr ""
+
+msgctxt "#30118"
+msgid "Force stop while switch between channels"
+msgstr ""
+
+msgctxt "#30120"
+msgid "PVR correctly set the list {} and restarted itself. Enjoy!"
+msgstr ""
+
+msgctxt "#30121"
+msgid "Input Stream Adaptive has been correctly installed"
+msgstr ""
+
+msgctxt "#30122"
+msgid "Send logfile"
+msgstr ""
+
+msgctxt "#30123"
+msgid "No channel link found"
+msgstr ""
+
+msgctxt "#30124"
+msgid "To send log file you need the Logfile Uploader addon. Do you want to install it?"
+msgstr ""
+
+msgctxt "#30125"
+msgid "Insert into PVR"
+msgstr ""
+
+msgctxt "#30126"
+msgid "International TVs"
+msgstr ""
+
+msgctxt "#30127"
+msgid "United Music Radio"
+msgstr ""
+
+msgctxt "#30128"
+msgid "SkyLine WebCam"
+msgstr ""
+
+msgctxt "#30129"
+msgid "[B]Select List[/B]"
+msgstr ""
+
+msgctxt "#30130"
+msgid ""
+msgstr ""
+
+msgctxt "#30131"
+msgid "Force reinstall last HotFix"
+msgstr ""
+
+msgctxt "#30132"
+msgid "Cache cleanup"
+msgstr ""
+
+msgctxt "#30133"
+msgid "New {} update v.{}.{} installed!"
+msgstr ""
+
+msgctxt "#30134"
+msgid "Current version: {} - Check for updates"
+msgstr ""
+
+msgctxt "#30135"
+msgid "Select Epg"
+msgstr ""
+
+msgctxt "#30136"
+msgid "List URL"
+msgstr ""
+
+msgctxt "#30137"
+msgid "Epg URL"
+msgstr ""
+
+msgctxt "#30138"
+msgid "Title"
+msgstr ""
+
+msgctxt "#30139"
+msgid "Manage User Lists"
+msgstr ""
+
+msgctxt "#30140"
+msgid "Customize WLTV Lists"
+msgstr ""
+
+msgctxt "#30141"
+msgid "Playlist Manager (VOD)"
+msgstr ""
+
+msgctxt "#30142"
+msgid "Show VOD posters if available (not recommended on little devices)"
+msgstr ""
+
+msgctxt "#30143"
+msgid "General"
+msgstr ""
+
+msgctxt "#30144"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30145"
+msgid "Local Files Expiration Days"
+msgstr ""
+
+msgctxt "#30146"
+msgid "The server is offline, you can select an emergency list or one of those in the cache, some channels could be not working. Remenber that when the server comes back online you will need to reselect one of the lists."
+msgstr ""
+
+msgctxt "#30147"
+msgid "Missing or invalid link"
+msgstr ""
+
+msgctxt "#30148"
+msgid "Service Not available"
+msgstr ""
+
+msgctxt "#30149"
+msgid "YouTube Music & Karaoke"
+msgstr ""
+
+msgctxt "#30150"
+msgid "User Lists"
+msgstr ""
+
+msgctxt "#30151"
+msgid "Global Search"
+msgstr ""
+
+msgctxt "#30152"
+msgid "Movies"
+msgstr ""
+
+msgctxt "#30153"
+msgid "TVShow"
+msgstr ""
+
+msgctxt "#30154"
+msgid "A-B-C"
+msgstr ""
+
+msgctxt "#30155"
+msgid "Groups"
+msgstr ""
+
+msgctxt "#30156"
+msgid "Search"
+msgstr ""
+
+msgctxt "#30157"
+msgid "Nothing to show"
+msgstr ""
+
+msgctxt "#30158"
+msgid "No user list found"
+msgstr ""
+
+msgctxt "#30159"
+msgid "International Radios"
+msgstr ""
+
+msgctxt "#30160"
+msgid "file info download"
+msgstr ""
+
+msgctxt "#30161"
+msgid "Downloading, please wait..."
+msgstr ""
+
+msgctxt "#30162"
+msgid "Local file needs update..."
+msgstr ""
+
+msgctxt "#30163"
+msgid "Local file updated."
+msgstr ""
+
+msgctxt "#30164"
+msgid "Updating file main info..."
+msgstr ""
+
+msgctxt "#30165"
+msgid "All operation done."
+msgstr ""
+
+#LogUploader
+
+msgctxt "#30166"
+msgid "The file is empty"
+msgstr ""
+
+msgctxt "#30167"
+msgid "Failed to read the file"
+msgstr ""
+
+msgctxt "#30168"
+msgid "Failed to retrieve the paste url"
+msgstr ""
+
+msgctxt "#30169"
+msgid "This file is too large. Max size is 2 MB."
+msgstr ""
+
+msgctxt "#30170"
+msgid "Post this url for your %s with a problem description, on the WLTV support Telegram group: [CR][CR]%s"
+msgstr ""
+
+msgctxt "#30171"
+msgid "Error posting the logfile."
+msgstr ""
+
+msgctxt "#30172"
+msgid "Error posting the kodi.log file"
+msgstr ""
+
+msgctxt "#30173"
+msgid "logfile"
+msgstr ""
+
+msgctxt "#30174"
+msgid "Do you want to view your %s or upload it to http://paste.kodi.tv/?"
+msgstr ""
+
+msgctxt "#30175"
+msgid "view"
+msgstr ""
+
+msgctxt "#30176"
+msgid "upload"
+msgstr ""
+
+#/LogUploader
+
+msgctxt "#30177"
+msgid "Internal TV (beta)"
+msgstr ""
+
+msgctxt "#30178"
+msgid "Browse the internal lists from the addon"
+msgstr ""
+
+msgctxt "#30179"
+msgid "Year"
+msgstr ""
+
+msgctxt "#30180"
+msgid "Genre"
+msgstr ""
+
+msgctxt "#30181"
+msgid "The '{}' list needs an update due to the expired or missing file. Confirm?"
+msgstr ""
+
+msgctxt "#30182"
+msgid "The server is online again, the previously activated online list is now automatically restored. Confirm?"
+msgstr ""
+
+msgctxt "#30183"
+msgid "Select your region"
+msgstr ""
+
+msgctxt "#30184"
+msgid "An error occurs... please try later"
+msgstr ""
+
+msgctxt "#30185"
+msgid "Select"
+msgstr ""
+
+msgctxt "#30186"
+msgid "Are you sure you want to delete the list {}"
+msgstr ""
+
+msgctxt "#30187"
+msgid "Are you sure you want to set all groups for {}"
+msgstr ""
+
+msgctxt "#30188"
+msgid "Choose TG3 Region"
+msgstr ""
+
+msgctxt "#30189"
+msgid "Choosen TG3 Region:"
+msgstr ""
+
+msgctxt "#30190"
+msgid "It seems that you have installed Wltv from an unofficial source, to obtain support and have all the updates uninstall this version and follow the official guide present in our Telegram channel 'https://t.me/worldlivetv', warning what is found elsewhere.\tWLTV team"
+msgstr ""
+
+msgctxt "#30191"
+msgid "Automatic updates of WLTV are disabled, enable them to continue"
+msgstr ""
+

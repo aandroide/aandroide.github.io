@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+
+    <category label="Generale">
+        <setting id="skipintro" type="bool" label="Skip Intro" default="true"/>
+        <setting label="Controlla Aggiornamenti" type="action" option="close"
+                 action="ActivateWindow(videos, plugin://plugin.video.thegroove360/update, return)"/>
+    </category>
+
+    <category label="TMDB">
+        <setting id="is_tmdb" type="bool" label="Integrazione TMDB" default="true"/>
+        <setting id="tmdb_api_key" type="text" label="Personal TMDB Api Key"/>
+    </category>
+
+    <category label="EPG">
+        <setting id="show_epg" type="bool" label="Visualizza EPG" default="true"/>
+        <setting id="epg_update" type="action" option="close" label="Forza Aggiornamento EPG"
+                 action="ActivateWindow(videos, plugin://plugin.video.thegroove360/update/epg, return)"/>
+        <setting id="show_logos" type="bool" label="Visualizza Loghi Canali" default="true"/>
+        <setting id="logos_update" type="action" option="close" label="Forza Aggiornamento Loghi"
+                 action="ActivateWindow(videos, plugin://plugin.video.thegroove360/update/logos, return)"/>
+        <setting id="epg_time_shift" label="Time Shift [MIN]" type="text" default="0"/>
+    </category>
+
+    <category label="AceStream">
+        <setting id="use_plexus" type="bool" label="Utilizza Plexus" default="false" enable="false"/>
+        <setting label="Richiede AceStrem Engine In Background" type="lsep" enable="eq(-1,false)"/>
+        <setting id="acestream_server" type="ipaddress" label="AceStream Server" default="127.0.0.1" enable="eq(-2,false)"/>
+        <setting id="acestream_port" type="number" label="AceStream Port" default="6878" enable="eq(-3,false)"/>
+    </category>
+
+
+    <category label="Avanzate">
+        <setting id="debug" type="bool" label="32001" default="false"/>
+        <setting id="max_threads" type="enum" label="Max Threads" values="Auto|1|2|4|8|16" default="0"/>
+        <setting id="zeronet_url" type="text" label="Zeronet Url" default="127.0.0.1:43110"/>
+        <setting id="check_liste" type="bool" label="Disabilita Info Liste" default="false"/>
+        <setting label="Rimuovi Moduli Obsoleti" type="action" option="close"
+                 action="ActivateWindow(videos, plugin://plugin.video.thegroove360/cleanup, return)"/>
+        <setting id="use_doh_requests" type="bool" label="Utilizza DOH Requests" default="false"/>
+        <setting id="dns_provider" type="select" label="Dns Provider" values="Google|Cloudflare" default="Google" enable="eq(-1,true)"/>
+        <setting id="resolvers_update" type="action" option="close" label="Forza Aggiornamento Resolvers"
+                 action="ActivateWindow(videos, plugin://plugin.video.thegroove360/update/resolvers, return)"/>
+    </category>
+
+</settings>
+

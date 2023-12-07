@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<window>
+    <zorder>0.52</zorder>
+    <coordinates>
+        <left>0</left>
+        <top>0</top>
+    </coordinates>
+    <animation type="WindowOpen" reversible="false">
+        <effect type="slide" start="0,100" end="0,0" delay="160" time="160" />
+        <effect type="fade" delay="160" end="100" time="100" />
+    </animation>
+    <animation type="WindowClose" reversible="false">
+        <effect type="slide" start="0,0" end="0,100" delay="160" time="160" />
+        <effect type="fade" delay="160" start="100" end="0" time="100" />
+    </animation>
+    <controls>
+        <control type="group">
+            <description>Main ListMaker Form</description>
+            <top>240</top>
+            <left>400</left>
+            <width>480</width>
+            <height>240</height>
+            <control type="image">
+                <description>Window Background</description>
+                <width>100%</width>
+                <height>100%</height>
+                <texture colordiffuse="FF232323">white.png</texture>
+            </control>
+            <!-- HEADER -->
+            <control type="image">
+                <description>Logo</description>
+                <top>30</top>
+                <left>30</left>
+                <width>90</width>
+                <height>30</height>
+                <texture>logo.png</texture>
+                <aspectratio>keep</aspectratio>
+                <align>left</align>
+            </control>
+            <control type="button" id="99">
+                <description>Close</description>
+                <top>25</top>
+                <right>25</right>
+                <height>40</height>
+                <width>40</width>
+                <texturefocus colordiffuse="FFFFFFFF">close.png</texturefocus>
+                <texturenofocus colordiffuse="80FFFFFF">close.png</texturenofocus>
+            </control>
+            <!-- /HEADER -->
+
+            <control type="list" id="1">
+                <top>90</top>
+                <left>20</left>
+                <height>120</height>
+                <width>440</width>
+                <itemlayout height="60" width="440">
+					<control type="textbox">
+						<description>List Title</description>
+						<top>0</top>
+						<left>20</left>
+						<width>400</width>
+						<height>60</height>
+						<font>font13</font>
+						<textcolor>88FFFFFF</textcolor>
+						<shadowcolor>00000000</shadowcolor>
+						<align>left</align>
+						<aligny>center</aligny>
+						<label>[B]$INFO[ListItem.Label][/B]</label>
+					</control>
+				</itemlayout>
+				<focusedlayout height="60" width="440">
+					<control type="image">
+						<description>Selected Background</description>
+						<top>0</top>
+						<left>0</left>
+						<width>440</width>
+						<height>60</height>
+						<texture colordiffuse="55FFFFFF">white.png</texture>
+						<aspectratio>scale</aspectratio>
+					</control>
+					<control type="textbox">
+						<description>List Title</description>
+						<top>0</top>
+						<left>20</left>
+						<width>400</width>
+						<height>60</height>
+						<font>font13</font>
+						<textcolor>FFFFFFFF</textcolor>
+						<shadowcolor>00000000</shadowcolor>
+						<align>left</align>
+						<aligny>center</aligny>
+						<label>[B]$INFO[ListItem.Label][/B]</label>
+					</control>
+				</focusedlayout>
+            </control>
+        </control>
+    </controls>
+</window>

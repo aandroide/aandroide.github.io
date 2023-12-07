@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="canaleitalia" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Canale Italia" tvg-chno="2000" group-title="-unknown-",Canale Italia
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=canaleitalia&group=-unknown-
+#EXTINF:-1 tvg-id="casaitalia142" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Casa Italia 142" tvg-chno="2001" group-title="-unknown-",Casa Italia 142
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=casaitalia142&group=-unknown-
+#EXTINF:-1 tvg-id="casaitalia53" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Casa Italia 53" tvg-chno="2002" group-title="-unknown-",Casa Italia 53
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=casaitalia53&group=-unknown-
+#EXTINF:-1 tvg-id="ebslive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/2560px-Flag_of_Europe.svg.png" tvg-name="EbS Live" tvg-chno="2003" group-title="-unknown-",EbS Live
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=ebslive&group=-unknown-
+#EXTINF:-1 tvg-id="ebs+live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/2560px-Flag_of_Europe.svg.png" tvg-name="EbS+ Live" tvg-chno="2004" group-title="-unknown-",EbS+ Live
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=ebs__live&group=-unknown-
+#EXTINF:-1 tvg-id="italia150" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Italia 150" tvg-chno="2005" group-title="-unknown-",Italia 150
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=italia150&group=-unknown-
+#EXTINF:-1 tvg-id="italiachannel" tvg-logo="https://admuzzum.xdevel.com/logos/streamsolution-default-cover.png" tvg-name="Italia Channel" tvg-chno="2006" group-title="-unknown-",Italia Channel
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=italiachannel&group=-unknown-
+#EXTINF:-1 tvg-id="Arte Investimenti Tv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Arte Investimenti Tv" tvg-chno="2007" group-title="_Vari",Arte Investimenti Tv
+plugin://plugin.video.twitch/?mode=play&channel_name=arteinvestimentitv
+#EXTINF:-1 tvg-id="Cusano Tv" tvg-logo="https://admuzzum.xdevel.com/cloud/x/35/im/png/2019/12/13/3f875d2c.png-512,512.png" tvg-name="Cusano Tv" tvg-chno="2008" group-title="_Vari",Cusano Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Cusano%20Tv&group=_Vari
+#EXTINF:-1 tvg-id="D Television" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4e1d9514-1064-4df2-b767-84b1e4615510-profile_image-300x300.png" tvg-name="D Television" tvg-chno="2009" group-title="_Vari",D Television
+plugin://plugin.video.wltvhelper/play/bozz/dtelevision
+#EXTINF:-1 tvg-id="Euro Tv Italia" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Euro Tv Italia" tvg-chno="2010" group-title="_Vari",Euro Tv Italia
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Euro%20Tv%20Italia&group=_Vari
+#EXTINF:-1 tvg-id="Giornale Radio Micio Bau Tv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Giornale Radio Micio Bau Tv" tvg-chno="2011" group-title="_Vari",Giornale Radio Micio Bau Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Giornale%20Radio%20Micio%20Bau%20Tv&group=_Vari
+#EXTINF:-1 tvg-id="Hub Tv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Hub Tv" tvg-chno="2012" group-title="_Vari",Hub Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Hub%20Tv&group=_Vari
+#EXTINF:-1 tvg-id="Nuova Tv Nazionale NTN" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Nuova Tv Nazionale NTN" tvg-chno="2013" group-title="_Vari",Nuova Tv Nazionale NTN
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Nuova%20Tv%20Nazionale%20NTN&group=_Vari
+#EXTINF:-1 tvg-id="Sophia Tv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Sophia Tv" tvg-chno="2014" group-title="_Vari",Sophia Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Sophia%20Tv&group=_Vari
+#EXTINF:-1 tvg-id="Iunior Tv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Iunior Tv" tvg-chno="2015" group-title="Bambini",Iunior Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Iunior%20Tv&group=Bambini
+#EXTINF:-1 tvg-id="Donna Shopping" tvg-logo="https://www.donnashopping.tv/wp-content/uploads/2020/10/donnashoppint-tv-logo.png" tvg-name="Donna Shopping" tvg-chno="2016" group-title="Campania",Donna Shopping
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Donna%20Shopping&group=Campania
+#EXTINF:-1 tvg-id="Fascino Tv" tvg-logo="https://www.fascinotv.it/wp-content/uploads/2023/03/fascino-tv-logo.png" tvg-name="Fascino Tv" tvg-chno="2017" group-title="Campania",Fascino Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Fascino%20Tv&group=Campania
+#EXTINF:-1 tvg-id="Fashion Tv Joannesburg" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Fashion Tv Joannesburg" tvg-chno="2018" group-title="Fashion Tv",Fashion Tv Joannesburg
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Fashion%20Tv%20Joannesburg&group=Fashion__Tv
+#EXTINF:-1 tvg-id="Fashion Tv Midnight Secrets" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Fashion Tv Midnight Secrets" tvg-chno="2019" group-title="Fashion Tv",Fashion Tv Midnight Secrets
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Fashion%20Tv%20Midnight%20Secrets&group=Fashion__Tv
+#EXTINF:-1 tvg-id="Fashion Tv New York" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Fashion Tv New York" tvg-chno="2020" group-title="Fashion Tv",Fashion Tv New York
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Fashion%20Tv%20New%20York&group=Fashion__Tv
+#EXTINF:-1 tvg-id="Fashion Tv Singapore" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Fashion Tv Singapore" tvg-chno="2021" group-title="Fashion Tv",Fashion Tv Singapore
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Fashion%20Tv%20Singapore&group=Fashion__Tv
+#EXTINF:-1 tvg-id="Fashion Tv Tokio" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Fashion Tv Tokio" tvg-chno="2022" group-title="Fashion Tv",Fashion Tv Tokio
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Fashion%20Tv%20Tokio&group=Fashion__Tv
+#EXTINF:-1 tvg-id="BLAB (solo su evento)" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="BLAB (solo su evento)" tvg-chno="2023" group-title="Intrattenimento",BLAB (solo su evento)
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=BLAB%20(solo%20su%20evento)&group=Intrattenimento
+#EXTINF:-1 tvg-id="Fishing TV" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Fishing TV" tvg-chno="2024" group-title="Intrattenimento",Fishing TV
+plugin://plugin.video.wltvhelper/play/yt/c/0/UCBSWr_ifrBMjj5rGBqwsUZQ
+#EXTINF:-1 tvg-id="TV 5 Monde Europe" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="TV 5 Monde Europe" tvg-chno="2025" group-title="Intrattenimento",TV 5 Monde Europe
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=TV%205%20Monde%20Europe&group=Intrattenimento
+#EXTINF:-1 tvg-id="Arte Network" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Arte Network" tvg-chno="2026" group-title="Moda Shopping",Arte Network
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Arte%20Network&group=Moda__Shopping
+#EXTINF:-1 tvg-id="Aurora Arte" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Aurora Arte" tvg-chno="2027" group-title="Moda Shopping",Aurora Arte
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Aurora%20Arte&group=Moda__Shopping
+#EXTINF:-1 tvg-id="Orler Tv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Orler Tv" tvg-chno="2028" group-title="Moda Shopping",Orler Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Orler%20Tv&group=Moda__Shopping
+#EXTINF:-1 tvg-id="Passione Lotto Tv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Passione Lotto Tv" tvg-chno="2029" group-title="Moda Shopping",Passione Lotto Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Passione%20Lotto%20Tv&group=Moda__Shopping
+#EXTINF:-1 tvg-id="Abc News Live" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Abc News Live" tvg-chno="2030" group-title="News",Abc News Live
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Abc%20News%20Live&group=News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="BBC NEWS LIVE 3" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="BBC NEWS LIVE 3" tvg-chno="2031" group-title="News",BBC NEWS LIVE 3
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=BBC%20NEWS%20LIVE%203&group=News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="BBC NEWS LIVE 4" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="BBC NEWS LIVE 4" tvg-chno="2032" group-title="News",BBC NEWS LIVE 4
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=BBC%20NEWS%20LIVE%204&group=News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="BBC NEWS LIVE 5" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="BBC NEWS LIVE 5" tvg-chno="2033" group-title="News",BBC NEWS LIVE 5
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=BBC%20NEWS%20LIVE%205&group=News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="BBC NEWS LIVE 6" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="BBC NEWS LIVE 6" tvg-chno="2034" group-title="News",BBC NEWS LIVE 6
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=BBC%20NEWS%20LIVE%206&group=News
+#EXTINF:-1 tvg-id="Camera dei deputati 1" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Camera dei deputati 1" tvg-chno="2035" group-title="News",Camera dei deputati 1
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Camera%20dei%20deputati%201&group=News
+#EXTINF:-1 tvg-id="Camera dei deputati 2" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Camera dei deputati 2" tvg-chno="2036" group-title="News",Camera dei deputati 2
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Camera%20dei%20deputati%202&group=News
+#EXTINF:-1 tvg-id="Giornale Radio Tv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Giornale Radio Tv" tvg-chno="2037" group-title="News",Giornale Radio Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Giornale%20Radio%20Tv&group=News
+#EXTINF:-1 tvg-id="GR NewsTv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="GR NewsTv" tvg-chno="2038" group-title="News",GR NewsTv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=GR%20NewsTv&group=News
+#EXTINF:-1 tvg-id="RT Documentary" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="RT Documentary" tvg-chno="2039" group-title="News",RT Documentary
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=RT%20Documentary&group=News
+#EXTINF:-1 tvg-id="RT News" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="RT News" tvg-chno="2040" group-title="News",RT News
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=RT%20News&group=News
+#EXTINF:-1 tvg-id="Fatima Tv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Fatima Tv" tvg-chno="2041" group-title="Religione",Fatima Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Fatima%20Tv&group=Religione
+#EXTINF:-1 tvg-id="Giovanni Paolo Tv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Giovanni Paolo Tv" tvg-chno="2042" group-title="Religione",Giovanni Paolo Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Giovanni%20Paolo%20Tv&group=Religione
+#EXTINF:-1 tvg-id="Maria Vision" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Maria Vision" tvg-chno="2043" group-title="Religione",Maria Vision
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Maria%20Vision&group=Religione
+#EXTINF:-1 tvg-id="Medjugorje Italia Tv" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Medjugorje Italia Tv" tvg-chno="2044" group-title="Religione",Medjugorje Italia Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Medjugorje%20Italia%20Tv&group=Religione
+#EXTINF:-1 tvg-id="padrepiotv" tvg-logo="https://www.teleradiopadrepio.it/wp-content/uploads/logo-blu-tv-ppio.png" tvg-name="Padre Pio Tv" tvg-chno="2045" group-title="Religione",Padre Pio Tv
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=padrepiotv&group=Religione
+#EXTINF:-1 tvg-id="Parole di Vita" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Parole di Vita" tvg-chno="2046" group-title="Religione",Parole di Vita
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Parole%20di%20Vita&group=Religione
+#EXTINF:-1 tvg-id="Tele Radio Pace 1" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Tele Radio Pace 1" tvg-chno="2047" group-title="Religione",Tele Radio Pace 1
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Tele%20Radio%20Pace%201&group=Religione
+#EXTINF:-1 tvg-id="Tele Radio Pace 2" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Tele Radio Pace 2" tvg-chno="2048" group-title="Religione",Tele Radio Pace 2
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Tele%20Radio%20Pace%202&group=Religione
+#EXTINF:-1 tvg-id="Tele Radio Pace 3" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Tele Radio Pace 3" tvg-chno="2049" group-title="Religione",Tele Radio Pace 3
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Tele%20Radio%20Pace%203&group=Religione
+#EXTINF:-1 tvg-id="Tele Radio Pace 4" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Tele Radio Pace 4" tvg-chno="2050" group-title="Religione",Tele Radio Pace 4
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Tele%20Radio%20Pace%204&group=Religione
+#EXTINF:-1 tvg-id="Sport2U" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Sport2U" tvg-chno="2051" group-title="Sport",Sport2U
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Sport2U&group=Sport
+#EXTINF:-1 tvg-id="Tutto Mercato Web" tvg-logo="http://epg-guide.com/icn/tv.png" tvg-name="Tutto Mercato Web" tvg-chno="2052" group-title="Sport",Tutto Mercato Web
+https://tvchannels.worldtvlive.eu/tv/_vari/live?channel=Tutto%20Mercato%20Web&group=Sport
