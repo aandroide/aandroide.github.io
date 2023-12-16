@@ -1,5 +1,25 @@
-name="build universal"
+name="Build Test"
 url="https://aandroide.github.io/configuration/build/build.zip"
 img="https://aandroide.github.io/configuration/img/fire.png"
 fanart="https://aandroide.github.io/configuration/img/arrow.png"
 description="Repository da installare"
+
+name="GHT Build Universal (49 MB) 30.1.23"
+url="https://guruhitech.com/build/GHT_Universal_30.1.23.zip"
+img="https://archive.org/download/guruhitech-matrix-logo-512x-512/guruhitech%20matrix%20logo%20512x512.png"
+fanart="https://guruhitech.com/wp-content/uploads/2021/03/guruhitech-matrix-fanart.jpeg"
+description="Build per Kodi realizzata da guruhitech.com. @GuruHiTech"
+
+name="GHT Build Linux (39 MB) 30.01.23"
+url="https://guruhitech.com/build/GHT_Linux_30.01.23.zip"
+img="https://guruhitech.com/wp-content/uploads/2021/10/ght-linux.png"
+fanart="https://guruhitech.com/wp-content/uploads/2021/01/guruhitech-build-linux.jpeg"
+description="Build per Kodi realizzata da guruhitech.com. @GuruHiTech"
+
+name="GameOnSport Build (137 MB) 11.02.23"
+url="https://guruhitech.com/build/GameOnSport.zip"
+img="https://i0.wp.com/guruhitech.com/wp-content/uploads/2023/02/game-on-sport-build.webp?w=800&ssl=1"
+fanart="https://i0.wp.com/guruhitech.com/wp-content/uploads/2023/02/game-on-sport-kodi-build-home.webp?w=800&ssl=1"
+description="Build per Kodi con i migliori add-on per lo sport"
+
+
